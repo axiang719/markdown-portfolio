@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Money cat](https://i.imgur.com/AD3MbBi.jpg)
