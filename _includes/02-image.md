@@ -1,1 +1,1 @@
-![Corgi puppy!] (https://i.imgur.com/ambXsXJ.jpeg)
+![Corgi puppy!](https://i.imgur.com/ambXsXJ.jpeg)
